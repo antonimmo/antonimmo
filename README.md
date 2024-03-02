@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/cf0b0aa0-e3f1-4497-ab16-0ac39d3d292c.svg)](https://wakatime.com/@cf0b0aa0-e3f1-4497-ab16-0ac39d3d292c)
-
 <!--
 **antonimmo/antonimmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
